@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470701537653",
+    "firebase_url": "https://codelabs-kotlin-flow.firebaseio.com",
+    "project_id": "codelabs-kotlin-flow",
+    "storage_bucket": "codelabs-kotlin-flow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470701537653:android:8becd7472248889d5c7b3c",
+        "android_client_info": {
+          "package_name": "dev.emrizkiem.codebasekotlinflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470701537653-kr4rr4q6era33v87ib487mdemp99lnru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.emrizkiem.codebasekotlinflow",
+            "certificate_hash": "375c7139ee32c113070ce15c6fc754867996e641"
+          }
+        },
+        {
+          "client_id": "470701537653-8av28ri246r4d3sei4368h06ns0trh9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52Uas8O41IIVXnI4rTAu8BSQyzFggjqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470701537653-8av28ri246r4d3sei4368h06ns0trh9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
