@@ -45,6 +45,11 @@ dependencies {
     // ViewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
 
+    // DI
+    implementation 'org.koin:koin-core:2.0.1'
+    implementation 'org.koin:koin-android:2.0.1'
+    implementation 'org.koin:koin-android-viewmodel:2.0.1'
+
     // Firebase Cloud Firestore (Kotlin)
     implementation 'com.google.firebase:firebase-firestore-ktx:21.4.3'
 
